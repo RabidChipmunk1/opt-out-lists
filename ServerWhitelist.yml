@@ -138,6 +138,8 @@ GoogleIDs:
     - 1n0IcJvANinCdmUr_8jwzIOAqyBoj8wKC # Crime and Punishment
     - 1QHVkQYzuODU9GBjjvwByLHH5hOGalEHi # Morroblivion v66 Installer
     - 10qv1L8SPqCFWVrtXIBt6HxtRgsnkXK0B # Morroblivion v66 Resources
+    - 1cOrfjQL3ZDks6zvJJsNVgqnjMLyVuGtI # True Anniversary Edition TexGen
+    - 1R-OjY-HVUZUm8huKItNprWHpsXBPOHKq # True Anniversary Edition Dyndolod Output
         
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -181,6 +183,7 @@ GoogleIDs:
     - 13R4F59XHf3oZsESIGMrGRnbwbqlSULYN # Warden
     - 1HhKZwprqrh0w8ybw5NUROgderVA2IANY # Ivish
     - 1nrSgJG_ikUN65rZxuT7YVm5OV2AJEIVy # DarNified UI - TTW
+    
     
     # For Licentia's Evolving OStim Suite
 
@@ -1212,3 +1215,4 @@ AllowedPrefixes:
     - https://skkmods.com/?smd_process_download=1&download_id=2303 # SKK Random Encounter Manager (direct download)
     - https://skkmods.com/?smd_process_download=1&download_id=1105 # SKK 4-76 Open World (direct download)
     - https://skkmods.com/mod/fallout-476-open-world/ # SKK 4-76 Open World (manual download)
+    
